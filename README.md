@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RPok18
-- 👀 I’m interested in Machiene Learning 
+- 👀 I’m interested in Machine Learning 
 - 🌱 I’m currently learning Softwares 
 - 💞️ I’m looking to collaborate on Projects/Internships
 
